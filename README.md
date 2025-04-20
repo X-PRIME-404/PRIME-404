@@ -1,2 +1,11 @@
-# PRIME-404
-ASSALAMU ALAIKUM
+```
+rm -rf PRIME-404
+
+git clone https://github.com/X-PRIME-404/PRIME-404
+
+cd PRIME-404
+
+chmod 777 PRIME
+
+./PRIME
+```
